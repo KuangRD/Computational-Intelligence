@@ -45,20 +45,6 @@ plt.plot(o_list_x,o_list_y, 'bo')
 
 ![png](output_3_0.png)
 
-![png](output_3_0.png)
-
-![png](output_3_0.png)
-
-![png](output_3_0.png)
-
-![png](output_3_0.png)
-
-
-
-
-
-
-
 
 ## Data Augmentation
 
