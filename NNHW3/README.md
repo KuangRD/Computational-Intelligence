@@ -42,7 +42,13 @@ plt.plot(o_list_x,o_list_y, 'bo')
 
 
 
-![png](output_1_1.png)
+
+
+
+
+
+
+
 
 
 ## Data Augmentation
@@ -99,7 +105,16 @@ x_set1 = np.reshape(x_set, (len(x_set), 2))
 ```
 
 
-![png](output_3_0.png)
+
+
+
+
+
+
+
+
+
+
 
 
 ## Handmade MLP
@@ -257,7 +272,6 @@ plt.plot(error_list)
 
 
 
-![png](output_13_1.png)
 
 
 ### (7) After training the neural network, try to show in a figure how well the trained neural network can separate the two spirals. (generalization ability)
@@ -332,4 +346,3 @@ plt.plot(b_list_x,b_list_y, 'b.')
 ```
 
 
-![png](output_16_1.png)
